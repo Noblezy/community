@@ -1,2 +1,20 @@
-# community
-Community discussions, roadmap, governance, contribution guides, and project proposals.
+# Noblezy Community
+
+Welcome to the Noblezy community.
+
+## Purpose
+
+This repository contains:
+
+- Roadmaps
+- Community discussions
+- Governance
+- Feature proposals
+- Events
+- Meeting notes
+
+## Mission
+
+Build Noblezy together with developers around the world.
+
+Everyone is welcome.
